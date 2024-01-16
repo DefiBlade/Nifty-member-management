@@ -1,4 +1,4 @@
-# BHG-Nifty-Member
+# Nifty Member Management
 
 This project is a simple template for saving form data and uploading files with React as FRONTEND and Firebase.
 
